@@ -30,9 +30,13 @@ Machine learning project focused on predicting **propofol induction doses** usin
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ├── PPFDosePred.ipynb # Main Jupyter notebook
+
 ├── data/ # Dataset (if publicly shareable)
+
 ├── models/ # Saved model files (optional)
+
 ├── README.md # Project overview and instructions
+
 └── requirements.txt # Python dependencies
